@@ -1,1 +1,37 @@
-hello everyone i'm mohanasundaram
+Cover Page
+Introduction
+Data Exploration, Data Preparation and Feature Selection
+Methods and improvements
+Results and analysis
+Conclusion
+
+duplicate= .duplicated()
+print(duplicate.sum())
+[duplicate]
+df.drop_duplicates(inplace=True)
+
+Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main characteristics, often with visual methods.
+
+Data Preparation:
+
+countplot
+distplot
+creation of new attributes
+log transformation (applicant income, coapplicant income, loan amount, loan terms)
+
+corelation matrix
+drop unnecessary columns
+label encoding
+train-test split
+model training
+
+Easily build, train, and deploy machine learning models
+
+Preparing for the data preparation
+Exploratory Data Analysis
+Dealing with Missing Values
+
+
+Univariant Analysis
+The distplot represents the univariate distribution of data i.e. data distribution of a variable against the density distribution. 
+The seaborn. distplot() function accepts the data variable as an argument and returns the plot with the density distribution.
