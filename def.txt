@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cover Page
 Introduction
 Data Exploration, Data Preparation and Feature Selection
@@ -35,3 +36,6 @@ Dealing with Missing Values
 Univariant Analysis
 The distplot represents the univariate distribution of data i.e. data distribution of a variable against the density distribution. 
 The seaborn. distplot() function accepts the data variable as an argument and returns the plot with the density distribution.
+=======
+asdfasdfa
+>>>>>>> c376b41ef59cae7c606267449aaf60303c5be7f3
